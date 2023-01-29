@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "title": "new Event",
+      "image": "https://static.toiimg.com/img/81547754/Master.jpg",
+      "date": "2023-02-03",
+      "description": "This is feb event",
+      "id": "d7216e4d-a867-409c-8919-40bbd46f7dd0"
+    }
+  ],
+  "users": [
+    {
+      "email": "adityashinde.business@gmail.com",
+      "password": "$2a$12$cT6xkkEfVOjZyEfEfhi7j.jSO09BBFCY7qkNMZ1/.FvsljV8bknzy",
+      "id": "89b3942e-4f07-490a-b62e-fc30ff3e7007"
+    },
+    {
+      "email": "test@test.com",
+      "password": "$2a$12$pER0/ZjPHJ5KumkGx3twHO/YQ21ZL8/VpslGFDA6TVBwe/JMaCZ4u",
+      "id": "5c51d603-1ed5-43f2-95cc-23afe7eff888"
+    },
+    {
+      "email": "test2@test.com",
+      "password": "$2a$12$wmNmRaKmFRFyYkjuyXNFjOiEWuq7GxB/a7dMEDti42/P3LLiN.D9q",
+      "id": "a957c63c-3cb4-4d33-bec6-8455719c3ada"
+    }
+  ]
+}
