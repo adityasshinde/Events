@@ -17,5 +17,5 @@ Authentication is tasted using the node.js and users data is saved in the file e
 ### 3. Start Frontend
 `$ npm run start (inside '/frontend')`
 
-### 4. Start Fronten
+### 4. Start Backend
 `$ npm run start (inside '/backend')`
